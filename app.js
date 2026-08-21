@@ -33,6 +33,20 @@
 
   const $=x=>document.getElementById(x);
 
+
+  function offerMeta(o){
+    const teachers=(o.teachers||[]).map(t=>{
+      const name=esc(t.name||'');
+      if(!name) return '';
+      return t.lattes
+        ? `<span>Docente: ${name} · <a class="bio-lattes" href="${esc(t.lattes)}" target="_blank" rel="noopener">Currículo Lattes</a></span>`
+        : `<span>Docente: ${name}</span>`;
+    }).filter(Boolean);
+    const rooms=[...new Set((o.parts||[]).map(p=>p.room).filter(Boolean))];
+    const roomText=rooms.length ? `<span>Local: ${rooms.map(esc).join(' / ')}</span>` : `<span>Local: a definir</span>`;
+    return `<span class="bio-meta">${teachers.join('<br>')}${teachers.length?'<br>':''}${roomText}</span>`;
+  }
+
   function lattesFor(o,name){
     const n=(name||'').trim().toLowerCase();
     const t=(o.teachers||[]).find(x=>(x.name||'').trim().toLowerCase()===n);
@@ -48,10 +62,10 @@
     const gs=filteredGroups();
     const mand=gs.filter(([k,v])=>v.some(o=>o.type==='Obrigatória'));
 
-    $('bio-mandatory').innerHTML=mand.length?mand.map(([k,os])=>`<div class="bio-course"><div class="bio-head"><b>${esc(os[0].code)} · ${esc(os[0].name)}</b><span class="bio-badge">Obrigatória</span></div><div class="bio-offers">${os.filter(o=>o.type==='Obrigatória').map(o=>`<label class="bio-offer"><input type="radio" name="bm-${esc(os[0].code)}-${esc(os[0].name)}" value="${esc(id(o))}"><b>${esc(o.offer)}</b><span class="bio-slots">${o.parts.length?o.parts.map(s=>`<span class="bio-slot">${s.day} ${s.start}–${s.end} ${s.kind==='T'?'Teoria':'Prática'}${s.room?' · '+esc(s.room):''}</span>`).join(''):'<span class="bio-slot">sem horário cadastrado</span>'}</span></label>`).join('')}</div></div>`).join(''):'<div class="bio-note">Não há disciplinas obrigatórias cadastradas para este período.</div>';
+    $('bio-mandatory').innerHTML=mand.length?mand.map(([k,os])=>`<div class="bio-course"><div class="bio-head"><b>${esc(os[0].code)} · ${esc(os[0].name)}</b><span class="bio-badge">Obrigatória</span></div><div class="bio-offers">${os.filter(o=>o.type==='Obrigatória').map(o=>`<label class="bio-offer"><input type="radio" name="bm-${esc(os[0].code)}-${esc(os[0].name)}" value="${esc(id(o))}"><b>${esc(o.offer)}</b><span><span class="bio-slots">${o.parts.length?o.parts.map(s=>`<span class="bio-slot">${s.day} ${s.start}–${s.end} ${s.kind==='T'?'Teoria':'Prática'}${s.room?' · '+esc(s.room):''}</span>`).join(''):'<span class="bio-slot">sem horário cadastrado</span>'}</span>${offerMeta(o)}</span></label>`).join('')}</div></div>`).join(''):'<div class="bio-note">Não há disciplinas obrigatórias cadastradas para este período.</div>';
 
     const opt=[...groups().entries()].filter(([k,v])=>v.some(o=>(o.type||'').startsWith('Optativa')));
-    $('bio-optional').innerHTML=opt.map(([k,os])=>`<div class="bio-course"><div class="bio-head"><b>${esc(os[0].code)} · ${esc(os[0].name)}</b><span class="bio-badge opt">Optativa</span></div><div class="bio-offers">${os.filter(o=>(o.type||'').startsWith('Optativa')).map(o=>`<label class="bio-offer"><input class="bio-oc" type="checkbox" value="${esc(id(o))}"><b>${esc(o.offer)}</b><span class="bio-slots">${o.parts.map(s=>`<span class="bio-slot opt">${s.day} ${s.start}–${s.end} ${s.kind==='T'?'Teoria':'Prática'}${s.room?' · '+esc(s.room):''}</span>`).join('')}</span></label>`).join('')}</div></div>`).join('');
+    $('bio-optional').innerHTML=opt.map(([k,os])=>`<div class="bio-course"><div class="bio-head"><b>${esc(os[0].code)} · ${esc(os[0].name)}</b><span class="bio-badge opt">Optativa</span></div><div class="bio-offers">${os.filter(o=>(o.type||'').startsWith('Optativa')).map(o=>`<label class="bio-offer"><input class="bio-oc" type="checkbox" value="${esc(id(o))}"><b>${esc(o.offer)}</b><span><span class="bio-slots">${o.parts.map(s=>`<span class="bio-slot opt">${s.day} ${s.start}–${s.end} ${s.kind==='T'?'Teoria':'Prática'}${s.room?' · '+esc(s.room):''}</span>`).join('')}</span>${offerMeta(o)}</span></label>`).join('')}</div></div>`).join('');
   }
 
   function mandSelected(){return [...root.querySelectorAll('#bio-mandatory input:checked')].map(x=>get(x.value))}

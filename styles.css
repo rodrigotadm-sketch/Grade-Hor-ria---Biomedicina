@@ -41,3 +41,5 @@ body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 Arial,sans-se
   #bio-public .bio-hero,#bio-public .bio-panel:not(.bio-grade-panel){display:none!important}
   #bio-public .bio-grade-panel{border:0;box-shadow:none}
 }
+
+.bio-meta{display:block;margin-top:8px;font-size:12px;color:var(--muted);line-height:1.5}.bio-meta a{color:var(--blue);text-decoration:underline}
