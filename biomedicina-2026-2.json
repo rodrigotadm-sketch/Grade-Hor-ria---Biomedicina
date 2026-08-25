@@ -11,832 +11,24 @@
         {
           "day": "5ª-feira",
           "start": "07:30",
-          "end": "09:30",
+          "end": "11:30",
           "kind": "T",
-          "teacher": "Djanira Veronez",
+          "teacher": "Djanira Aparecida Luz",
           "room": "ANFI. 02"
-        },
-        {
-          "day": "5ª-feira",
-          "start": "09:30",
-          "end": "11:30",
-          "kind": "P",
-          "teacher": "Djanira Veronez",
-          "room": ""
         }
       ],
       "obs": "",
       "teachers": [
         {
-          "name": "Djanira Veronez",
-          "lattes": "http://lattes.cnpq.br/9947917203115255"
+          "name": "Djanira Aparecida Luz",
+          "lattes": ""
         }
       ]
-    },
-    {
-      "period": "2º período",
-      "code": "HF0407",
-      "name": "Bioética",
-      "offer": "AC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "2ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "T",
-          "teacher": "Daniel Galantin",
-          "room": ""
-        },
-        {
-          "day": "2ª-feira",
-          "start": "15:30",
-          "end": "17:30",
-          "kind": "T",
-          "teacher": "Daniel Galantin",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Daniel Galantin",
-          "lattes": "http://lattes.cnpq.br/3881064026467115"
-        }
-      ]
-    },
-    {
-      "period": "2º período",
-      "code": "BC080",
-      "name": "Biologia Celular e Tecidual Aplicada",
-      "offer": "AC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "4ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "T",
-          "teacher": "Sônia Grotzner",
-          "room": "ANFI. 08"
-        },
-        {
-          "day": "4ª-feira",
-          "start": "15:30",
-          "end": "17:30",
-          "kind": "P",
-          "teacher": "Fernanda Simas",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Sônia Grotzner",
-          "lattes": "http://lattes.cnpq.br/1105325909142196"
-        },
-        {
-          "name": "Fernanda Simas",
-          "lattes": "http://lattes.cnpq.br/4651679415363572"
-        }
-      ]
-    },
-    {
-      "period": "2º período",
-      "code": "BQ086",
-      "name": "Metabolismo Celular e Tecidual",
-      "offer": "AC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "5ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "T",
-          "teacher": "Diogo Ducatti",
-          "room": "SALA 02"
-        },
-        {
-          "day": "6ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "T",
-          "teacher": "Diogo Ducatti",
-          "room": "SALA 02"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Diogo Ducatti",
-          "lattes": "http://lattes.cnpq.br/2032923073311145"
-        }
-      ]
-    },
-    {
-      "period": "2º período",
-      "code": "BC081",
-      "name": "Pensamento em Ciência",
-      "offer": "AC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "3ª-feira",
-          "start": "15:30",
-          "end": "18:30",
-          "kind": "T",
-          "teacher": "Marco Randi",
-          "room": "ANFI. 13"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Marco Randi",
-          "lattes": "http://lattes.cnpq.br/0203267762283972"
-        }
-      ]
-    },
-    {
-      "period": "2º período",
-      "code": "BQ084",
-      "name": "Introdução ao Método Científico",
-      "offer": "AC/BC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "5ª-feira",
-          "start": "15:30",
-          "end": "18:30",
-          "kind": "T",
-          "room": "SALA 01",
-          "teacher": "David Mitchell"
-        },
-        {
-          "day": "5ª-feira",
-          "start": "15:30",
-          "end": "18:30",
-          "kind": "P",
-          "room": "",
-          "teacher": "David Mitchell"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "David Mitchell",
-          "lattes": "http://lattes.cnpq.br/9183875102082026"
-        }
-      ]
-    },
-    {
-      "period": "4º período",
-      "code": "BG078",
-      "name": "Genética para Biomedicina",
-      "offer": "AC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "4ª-feira",
-          "start": "09:30",
-          "end": "11:30",
-          "kind": "T",
-          "room": "SALA 02",
-          "teacher": "Jaqueline de Oliveira"
-        },
-        {
-          "day": "5ª-feira",
-          "start": "07:30",
-          "end": "09:30",
-          "kind": "P",
-          "room": "",
-          "teacher": "Carolina Mathias"
-        },
-        {
-          "day": "6ª-feira",
-          "start": "09:30",
-          "end": "11:30",
-          "kind": "T",
-          "room": "ANF.07",
-          "teacher": "Jaqueline de Oliveira"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Jaqueline de Oliveira",
-          "lattes": "http://lattes.cnpq.br/8730828720954911"
-        },
-        {
-          "name": "Carolina Mathias",
-          "lattes": "http://lattes.cnpq.br/1802836786052288"
-        }
-      ]
-    },
-    {
-      "period": "4º período",
-      "code": "BG078",
-      "name": "Genética para Biomedicina",
-      "offer": "BC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "4ª-feira",
-          "start": "09:30",
-          "end": "11:30",
-          "kind": "P",
-          "teacher": "Jaqueline de Oliveira",
-          "room": ""
-        },
-        {
-          "day": "6ª-feira",
-          "start": "07:30",
-          "end": "09:30",
-          "kind": "P",
-          "teacher": "Jaqueline de Oliveira",
-          "room": ""
-        },
-        {
-          "day": "6ª-feira",
-          "start": "09:30",
-          "end": "11:30",
-          "kind": "T",
-          "teacher": "Carolina Mathias",
-          "room": "ANFI. 07"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Jaqueline de Oliveira",
-          "lattes": "http://lattes.cnpq.br/8730828720954911"
-        },
-        {
-          "name": "Carolina Mathias",
-          "lattes": "http://lattes.cnpq.br/1802836786052288"
-        }
-      ]
-    },
-    {
-      "period": "4º período",
-      "code": "CI182",
-      "name": "Fundamentos de Programação de Computadores",
-      "offer": "Bmed",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "3ª-feira",
-          "start": "09:30",
-          "end": "11:30",
-          "kind": "T",
-          "teacher": "Eduardo Spinosa",
-          "room": ""
-        },
-        {
-          "day": "5ª-feira",
-          "start": "09:30",
-          "end": "11:30",
-          "kind": "P",
-          "teacher": "Eduardo Spinosa",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Eduardo Spinosa",
-          "lattes": "http://lattes.cnpq.br/6610926478721564"
-        }
-      ]
-    },
-    {
-      "period": "4º período",
-      "code": "BP222",
-      "name": "Metodologia do Ensino em Saúde II",
-      "offer": "AC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "2ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "T",
-          "teacher": "Camila Marcon",
-          "room": "SALA 02"
-        },
-        {
-          "day": "5ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "P",
-          "teacher": "Camila Marcon",
-          "room": "ANFI. 04"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Camila Marcon",
-          "lattes": "http://lattes.cnpq.br/2439951126870898"
-        }
-      ]
-    },
-    {
-      "period": "4º período",
-      "code": "BP222",
-      "name": "Metodologia do Ensino em Saúde II",
-      "offer": "BC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "2ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "T",
-          "teacher": "Camila Marcon",
-          "room": "SALA 02"
-        },
-        {
-          "day": "5ª-feira",
-          "start": "15:30",
-          "end": "17:30",
-          "kind": "P",
-          "teacher": "Camila Marcon",
-          "room": "ANFI. 04"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Camila Marcon",
-          "lattes": "http://lattes.cnpq.br/2439951126870898"
-        }
-      ]
-    },
-    {
-      "period": "4º período",
-      "code": "BF117",
-      "name": "Fisiologia para Biomedicina I",
-      "offer": "AC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "3ª-feira",
-          "start": "13:30",
-          "end": "17:30",
-          "kind": "T",
-          "teacher": "Luiz C. Fernandes",
-          "room": "ANFI. 04"
-        },
-        {
-          "day": "6ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "P",
-          "teacher": "Luiz C. Fernandes",
-          "room": "ANFI. 04"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Luiz C. Fernandes",
-          "lattes": "http://lattes.cnpq.br/4994339816158390"
-        }
-      ]
-    },
-    {
-      "period": "4º período",
-      "code": "BP215",
-      "name": "Imunologia",
-      "offer": "AC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "4ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "P",
-          "teacher": "Larissa Alvarenga",
-          "room": "SALA 01"
-        },
-        {
-          "day": "3ª-feira",
-          "start": "15:30",
-          "end": "17:30",
-          "kind": "T",
-          "teacher": "Larissa Alvarenga",
-          "room": "SALA 01"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Larissa Alvarenga",
-          "lattes": "http://lattes.cnpq.br/9712638986970478"
-        }
-      ]
-    },
-    {
-      "period": "4º período",
-      "code": "BP217",
-      "name": "Hematologia Aplicada à Biomedicina",
-      "offer": "AC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "4ª-feira",
-          "start": "15:30",
-          "end": "17:30",
-          "kind": "T",
-          "room": "ANFI. 06",
-          "teacher": "Regiane Cunha"
-        },
-        {
-          "day": "5ª-feira",
-          "start": "15:30",
-          "end": "17:30",
-          "kind": "P",
-          "room": "",
-          "teacher": "Regiane Cunha"
-        }
-      ],
-      "obs": "Teoria compartilhada com a turma BC.",
-      "teachers": [
-        {
-          "name": "Regiane Cunha",
-          "lattes": "http://lattes.cnpq.br/9593864858854189"
-        }
-      ]
-    },
-    {
-      "period": "4º período",
-      "code": "BP217",
-      "name": "Hematologia Aplicada à Biomedicina",
-      "offer": "BC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "4ª-feira",
-          "start": "15:30",
-          "end": "17:30",
-          "kind": "T",
-          "room": "ANFI. 06",
-          "teacher": "Regiane Cunha"
-        },
-        {
-          "day": "5ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "P",
-          "room": "",
-          "teacher": "Regiane Cunha"
-        }
-      ],
-      "obs": "Teoria compartilhada com a turma AC.",
-      "teachers": [
-        {
-          "name": "Regiane Cunha",
-          "lattes": "http://lattes.cnpq.br/9593864858854189"
-        }
-      ]
-    },
-    {
-      "period": "6º período",
-      "code": "BT075",
-      "name": "Representação e Análise de Dados",
-      "offer": "AC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "3ª-feira",
-          "start": "09:30",
-          "end": "11:30",
-          "kind": "T",
-          "teacher": "Janaína Zanolveli",
-          "room": "SALA 07"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Janaína Zanolveli",
-          "lattes": "http://lattes.cnpq.br/2879707811631626"
-        }
-      ]
-    },
-    {
-      "period": "6º período",
-      "code": "BT074",
-      "name": "Farmacologia Biomédica II",
-      "offer": "A",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "4ª-feira",
-          "start": "09:30",
-          "end": "11:30",
-          "kind": "T",
-          "teacher": "Joice da Cunha",
-          "room": "SALA 06"
-        },
-        {
-          "day": "2ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "P",
-          "teacher": "Joice da Cunha",
-          "room": "SALA 05"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Joice da Cunha",
-          "lattes": "http://lattes.cnpq.br/4978491284256342"
-        }
-      ]
-    },
-    {
-      "period": "6º período",
-      "code": "BQ088",
-      "name": "Métodos Analíticos para Biomedicina",
-      "offer": "A",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "5ª-feira",
-          "start": "09:30",
-          "end": "11:30",
-          "kind": "T",
-          "teacher": "Guilherme Sassaki",
-          "room": "ANFI. 15"
-        },
-        {
-          "day": "5ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "P",
-          "teacher": "Guilherme Sassaki",
-          "room": "ANFI. 15"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Guilherme Sassaki",
-          "lattes": "http://lattes.cnpq.br/6433828746058651"
-        }
-      ]
-    },
-    {
-      "period": "6º período",
-      "code": "BP220",
-      "name": "Relações Patógeno-Hospedeiro",
-      "offer": "A",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "3ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "T",
-          "teacher": "Camila Marcon",
-          "room": "SALA 02"
-        },
-        {
-          "day": "4ª-feira",
-          "start": "13:30",
-          "end": "16:30",
-          "kind": "T",
-          "teacher": "Camila Marcon",
-          "room": "SALA 02"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Camila Marcon",
-          "lattes": "http://lattes.cnpq.br/2439951126870898"
-        }
-      ]
-    },
-    {
-      "period": "6º período",
-      "code": "BP219",
-      "name": "Redação de Projetos Científicos",
-      "offer": "AC",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "2ª-feira",
-          "start": "15:30",
-          "end": "18:30",
-          "kind": "T",
-          "teacher": "Adriana Mercadante",
-          "room": "ANFI. 04"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Adriana Mercadante",
-          "lattes": "http://lattes.cnpq.br/4805245493035862"
-        }
-      ]
-    },
-    {
-      "period": "6º período",
-      "code": "BC082",
-      "name": "Biomarcadores de Contaminação Ambiental",
-      "offer": "A",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "3ª-feira",
-          "start": "15:30",
-          "end": "18:30",
-          "kind": "T",
-          "teacher": "Maritana Prodocimo",
-          "room": "ANFI. 07"
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Maritana Prodocimo",
-          "lattes": "http://lattes.cnpq.br/3045611249911893"
-        }
-      ]
-    },
-    {
-      "period": "6º período",
-      "code": "MAC048",
-      "name": "Práticas Específicas em Análises Clínicas",
-      "offer": "A",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "6ª-feira",
-          "start": "08:30",
-          "end": "11:30",
-          "kind": "P",
-          "teacher": "Aline Hauser",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Aline Hauser",
-          "lattes": "http://lattes.cnpq.br/7834327258340015"
-        }
-      ]
-    },
-    {
-      "period": "6º período",
-      "code": "MAC048",
-      "name": "Práticas Específicas em Análises Clínicas",
-      "offer": "Bmed-B",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "2ª-feira",
-          "start": "13:30",
-          "end": "16:30",
-          "kind": "P",
-          "teacher": "Aline Hauser",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Aline Hauser",
-          "lattes": "http://lattes.cnpq.br/7834327258340015"
-        }
-      ]
-    },
-    {
-      "period": "6º período",
-      "code": "MAC048",
-      "name": "Práticas Específicas em Análises Clínicas",
-      "offer": "Bmed-C",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "3ª-feira",
-          "start": "08:30",
-          "end": "11:30",
-          "kind": "P",
-          "teacher": "Aline Hauser",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Aline Hauser",
-          "lattes": "http://lattes.cnpq.br/7834327258340015"
-        }
-      ]
-    },
-    {
-      "period": "6º período",
-      "code": "MAC048",
-      "name": "Práticas Específicas em Análises Clínicas",
-      "offer": "Bmed-D",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "4ª-feira",
-          "start": "08:30",
-          "end": "11:30",
-          "kind": "P",
-          "teacher": "Aline Hauser",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Aline Hauser",
-          "lattes": "http://lattes.cnpq.br/7834327258340015"
-        }
-      ]
-    },
-    {
-      "period": "6º período",
-      "code": "MAC048",
-      "name": "Práticas Específicas em Análises Clínicas",
-      "offer": "Bmed-E",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "5ª-feira",
-          "start": "08:30",
-          "end": "11:30",
-          "kind": "P",
-          "teacher": "Aline Hauser",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Aline Hauser",
-          "lattes": "http://lattes.cnpq.br/7834327258340015"
-        }
-      ]
-    },
-    {
-      "period": "6º período",
-      "code": "MAC048",
-      "name": "Práticas Específicas em Análises Clínicas",
-      "offer": "Bmed-F",
-      "type": "Obrigatória",
-      "parts": [
-        {
-          "day": "5ª-feira",
-          "start": "13:30",
-          "end": "16:30",
-          "kind": "P",
-          "teacher": "Aline Hauser",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Aline Hauser",
-          "lattes": "http://lattes.cnpq.br/7834327258340015"
-        }
-      ]
-    },
-    {
-      "period": "7º e 8º período",
-      "code": "BMED019",
-      "name": "Trabalho de Conclusão de Curso",
-      "offer": "Bmed",
-      "type": "Obrigatória",
-      "parts": [],
-      "obs": "",
-      "teachers": []
-    },
-    {
-      "period": "7º e 8º período",
-      "code": "BMED020",
-      "name": "Estágio Supervisionado I",
-      "offer": "Bmed",
-      "type": "Obrigatória",
-      "parts": [],
-      "obs": "",
-      "teachers": []
     },
     {
       "period": "Optativas",
       "code": "BB103",
-      "name": "Métodos para Identificação de Plantas Medicinais",
+      "name": "Métodos Para Identificação De Plantas Medicinais",
       "offer": "Bmed",
       "type": "Optativa",
       "parts": [
@@ -858,9 +50,295 @@
       ]
     },
     {
+      "period": "2º período",
+      "code": "BC080",
+      "name": "Biologia Celular E Tecidual Aplicada",
+      "offer": "AC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "4ª-feira",
+          "start": "13:30",
+          "end": "17:30",
+          "kind": "T",
+          "teacher": "Fernanda Fogagnoli Simas / Sônia Regina Grotzner",
+          "room": "ANFI. 08"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Fernanda Fogagnoli Simas",
+          "lattes": ""
+        },
+        {
+          "name": "Sônia Regina Grotzner",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "2º período",
+      "code": "BC081",
+      "name": "Pensamento Em Ciência",
+      "offer": "AC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "3ª-feira",
+          "start": "15:30",
+          "end": "18:30",
+          "kind": "T",
+          "teacher": "Marco Antonio Ferreira Randi",
+          "room": "ANFI. 13"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Marco Antonio Ferreira Randi",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "6º período",
+      "code": "BC082",
+      "name": "Biomarcadores De Contaminação Ambiental",
+      "offer": "AC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "3ª-feira",
+          "start": "15:30",
+          "end": "18:30",
+          "kind": "T",
+          "teacher": "Maritana Mela Prodocimo",
+          "room": "ANFI. 07"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Maritana Mela Prodocimo",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "4º período",
+      "code": "BF117",
+      "name": "Fisiologia Para Biomedicina I",
+      "offer": "AC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "3ª-feira",
+          "start": "13:30",
+          "end": "15:30",
+          "kind": "T",
+          "teacher": "Anderson Joel Martino Andrade / Bruno Jacson Martynhak / Luana Fischer / Luiz Claudio Fernandes",
+          "room": "ANFI. 04"
+        },
+        {
+          "day": "6ª-feira",
+          "start": "13:30",
+          "end": "15:30",
+          "kind": "P",
+          "teacher": "Anderson Joel Martino Andrade / Bruno Jacson Martynhak / Luana Fischer / Luiz Claudio Fernandes",
+          "room": "ANFI. 04"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Anderson Joel Martino Andrade",
+          "lattes": ""
+        },
+        {
+          "name": "Bruno Jacson Martynhak",
+          "lattes": ""
+        },
+        {
+          "name": "Luana Fischer",
+          "lattes": ""
+        },
+        {
+          "name": "Luiz Claudio Fernandes",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "4º período",
+      "code": "BG078",
+      "name": "Genética Para Biomedicina",
+      "offer": "AC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "4ª-feira",
+          "start": "09:30",
+          "end": "11:30",
+          "kind": "T",
+          "teacher": "Carolina Mathias / Daniela Morais Leme / Jaqueline Carvalho de Oliveira / Patricia Savio de Araujo Souza",
+          "room": "SALA 02"
+        },
+        {
+          "day": "5ª-feira",
+          "start": "07:30",
+          "end": "09:30",
+          "kind": "P",
+          "teacher": "Carolina Mathias / Daniela Morais Leme / Jaqueline Carvalho de Oliveira / Patricia Savio de Araujo Souza",
+          "room": ""
+        },
+        {
+          "day": "6ª-feira",
+          "start": "09:30",
+          "end": "11:30",
+          "kind": "T",
+          "teacher": "Carolina Mathias / Daniela Morais Leme / Jaqueline Carvalho de Oliveira / Patricia Savio de Araujo Souza",
+          "room": "ANF.07"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Carolina Mathias",
+          "lattes": "http://lattes.cnpq.br/1802836786052288"
+        },
+        {
+          "name": "Daniela Morais Leme",
+          "lattes": ""
+        },
+        {
+          "name": "Jaqueline Carvalho de Oliveira",
+          "lattes": ""
+        },
+        {
+          "name": "Patricia Savio de Araujo Souza",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "4º período",
+      "code": "BG078",
+      "name": "Genética Para Biomedicina",
+      "offer": "BC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "4ª-feira",
+          "start": "09:30",
+          "end": "11:30",
+          "kind": "P",
+          "teacher": "Carolina Mathias / Daniela Morais Leme / Jaqueline Carvalho de Oliveira / Patricia Savio de Araujo Souza",
+          "room": ""
+        },
+        {
+          "day": "6ª-feira",
+          "start": "07:30",
+          "end": "11:30",
+          "kind": "P",
+          "teacher": "Carolina Mathias / Daniela Morais Leme / Jaqueline Carvalho de Oliveira / Patricia Savio de Araujo Souza",
+          "room": ""
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Carolina Mathias",
+          "lattes": "http://lattes.cnpq.br/1802836786052288"
+        },
+        {
+          "name": "Daniela Morais Leme",
+          "lattes": ""
+        },
+        {
+          "name": "Jaqueline Carvalho de Oliveira",
+          "lattes": ""
+        },
+        {
+          "name": "Patricia Savio de Araujo Souza",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "7º e 8º período",
+      "code": "BMED019",
+      "name": "Trabalho De Conclusão De Curso",
+      "offer": "A",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "6ª-feira",
+          "start": "21:30",
+          "end": "22:30",
+          "kind": "T",
+          "teacher": "Camila Marcon",
+          "room": ""
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Camila Marcon",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        }
+      ]
+    },
+    {
+      "period": "7º e 8º período",
+      "code": "BMED020",
+      "name": "Estágio Supervisionado I",
+      "offer": "A",
+      "type": "Obrigatória",
+      "parts": [],
+      "obs": "Carga horária/atividade registrada sem horário semanal convencional na planilha de oferta (campo Encontro(s): 64).",
+      "teachers": [
+        {
+          "name": "Aline Borsato Hauser",
+          "lattes": ""
+        },
+        {
+          "name": "Camila Marcon",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "name": "Jaqueline Carvalho de Oliveira",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "7º e 8º período",
+      "code": "BMED021",
+      "name": "Estágio Supervisionado Ii",
+      "offer": "A",
+      "type": "Obrigatória",
+      "parts": [],
+      "obs": "Carga horária/atividade registrada sem horário semanal convencional na planilha de oferta (campo Encontro(s): 64).",
+      "teachers": [
+        {
+          "name": "Aline Borsato Hauser",
+          "lattes": ""
+        },
+        {
+          "name": "Camila Marcon",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "name": "Jaqueline Carvalho de Oliveira",
+          "lattes": ""
+        }
+      ]
+    },
+    {
       "period": "Optativas",
       "code": "BMED022",
-      "name": "Estágio Supervisionado em Coleta Biológica",
+      "name": "Estágio Supervisionado Em Coleta Biológica",
       "offer": "A",
       "type": "Optativa",
       "parts": [
@@ -869,7 +347,7 @@
           "start": "07:30",
           "end": "11:30",
           "kind": "P",
-          "teacher": "Camila Marcon / Jaqueline de Oliveira",
+          "teacher": "Camila Marcon / Jaqueline Carvalho de Oliveira",
           "room": ""
         },
         {
@@ -877,46 +355,18 @@
           "start": "07:30",
           "end": "11:30",
           "kind": "P",
-          "teacher": "Camila Marcon / Jaqueline de Oliveira",
+          "teacher": "Camila Marcon / Jaqueline Carvalho de Oliveira",
           "room": ""
         }
       ],
       "obs": "",
       "teachers": [
         {
-          "name": "Camila Marcon / Jaqueline de Oliveira",
-          "lattes": ""
-        }
-      ]
-    },
-    {
-      "period": "Optativas",
-      "code": "BMED022",
-      "name": "Estágio Supervisionado em Coleta Biológica",
-      "offer": "B",
-      "type": "Optativa",
-      "parts": [
-        {
-          "day": "4ª-feira",
-          "start": "07:30",
-          "end": "11:30",
-          "kind": "P",
-          "teacher": "Camila Marcon / Jaqueline de Oliveira",
-          "room": ""
+          "name": "Camila Marcon",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
         },
         {
-          "day": "6ª-feira",
-          "start": "07:30",
-          "end": "11:30",
-          "kind": "P",
-          "teacher": "Camila Marcon / Jaqueline de Oliveira",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": [
-        {
-          "name": "Camila Marcon / Jaqueline de Oliveira",
+          "name": "Jaqueline Carvalho de Oliveira",
           "lattes": ""
         }
       ]
@@ -924,7 +374,7 @@
     {
       "period": "Optativas",
       "code": "BMED022",
-      "name": "Estágio Supervisionado em Coleta Biológica",
+      "name": "Estágio Supervisionado Em Coleta Biológica",
       "offer": "C",
       "type": "Optativa",
       "parts": [
@@ -933,7 +383,7 @@
           "start": "13:30",
           "end": "17:30",
           "kind": "P",
-          "teacher": "Camila Marcon / Jaqueline de Oliveira",
+          "teacher": "Camila Marcon / Jaqueline Carvalho de Oliveira",
           "room": ""
         },
         {
@@ -941,14 +391,18 @@
           "start": "07:30",
           "end": "11:30",
           "kind": "P",
-          "teacher": "Camila Marcon / Jaqueline de Oliveira",
+          "teacher": "Camila Marcon / Jaqueline Carvalho de Oliveira",
           "room": ""
         }
       ],
       "obs": "",
       "teachers": [
         {
-          "name": "Camila Marcon / Jaqueline de Oliveira",
+          "name": "Camila Marcon",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "name": "Jaqueline Carvalho de Oliveira",
           "lattes": ""
         }
       ]
@@ -956,7 +410,7 @@
     {
       "period": "Optativas",
       "code": "BMED022",
-      "name": "Estágio Supervisionado em Coleta Biológica",
+      "name": "Estágio Supervisionado Em Coleta Biológica",
       "offer": "D",
       "type": "Optativa",
       "parts": [
@@ -965,7 +419,7 @@
           "start": "13:30",
           "end": "17:30",
           "kind": "P",
-          "teacher": "Camila Marcon / Jaqueline de Oliveira",
+          "teacher": "Camila Marcon / Jaqueline Carvalho de Oliveira",
           "room": ""
         },
         {
@@ -973,14 +427,18 @@
           "start": "13:30",
           "end": "17:30",
           "kind": "P",
-          "teacher": "Camila Marcon / Jaqueline de Oliveira",
+          "teacher": "Camila Marcon / Jaqueline Carvalho de Oliveira",
           "room": ""
         }
       ],
       "obs": "",
       "teachers": [
         {
-          "name": "Camila Marcon / Jaqueline de Oliveira",
+          "name": "Camila Marcon",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "name": "Jaqueline Carvalho de Oliveira",
           "lattes": ""
         }
       ]
@@ -988,16 +446,96 @@
     {
       "period": "Optativas",
       "code": "BMED022",
-      "name": "Estágio Supervisionado em Coleta Biológica",
-      "offer": "E",
+      "name": "Estágio Supervisionado Em Coleta Biológica",
+      "offer": "B",
       "type": "Optativa",
       "parts": [
+        {
+          "day": "4ª-feira",
+          "start": "07:30",
+          "end": "11:30",
+          "kind": "P",
+          "teacher": "Camila Marcon / Jaqueline Carvalho de Oliveira",
+          "room": ""
+        },
         {
           "day": "5ª-feira",
           "start": "13:30",
           "end": "17:30",
           "kind": "P",
-          "teacher": "Camila Marcon / Jaqueline de Oliveira",
+          "teacher": "Camila Marcon / Jaqueline Carvalho de Oliveira",
+          "room": ""
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Camila Marcon",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "name": "Jaqueline Carvalho de Oliveira",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "Optativas",
+      "code": "BMED022",
+      "name": "Estágio Supervisionado Em Coleta Biológica",
+      "offer": "E",
+      "type": "Optativa",
+      "parts": [
+        {
+          "day": "5ª-feira",
+          "start": "15:30",
+          "end": "17:30",
+          "kind": "P",
+          "teacher": "Camila Marcon / Jaqueline Carvalho de Oliveira",
+          "room": ""
+        },
+        {
+          "day": "6ª-feira",
+          "start": "09:30",
+          "end": "10:30",
+          "kind": "P",
+          "teacher": "Camila Marcon / Jaqueline Carvalho de Oliveira",
+          "room": ""
+        },
+        {
+          "day": "6ª-feira",
+          "start": "15:30",
+          "end": "17:30",
+          "kind": "P",
+          "teacher": "Camila Marcon / Jaqueline Carvalho de Oliveira",
+          "room": ""
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Camila Marcon",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "name": "Jaqueline Carvalho de Oliveira",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "Optativas",
+      "code": "BMED022",
+      "name": "Estágio Supervisionado Em Coleta Biológica",
+      "offer": "Bmed-E",
+      "type": "Optativa",
+      "parts": [
+        {
+          "day": "6ª-feira",
+          "start": "08:30",
+          "end": "11:30",
+          "kind": "P",
+          "teacher": "Jaqueline Carvalho de Oliveira",
           "room": ""
         },
         {
@@ -1005,14 +543,398 @@
           "start": "13:30",
           "end": "17:30",
           "kind": "P",
-          "teacher": "Camila Marcon / Jaqueline de Oliveira",
+          "teacher": "Jaqueline Carvalho de Oliveira",
           "room": ""
         }
       ],
       "obs": "",
       "teachers": [
         {
-          "name": "Camila Marcon / Jaqueline de Oliveira",
+          "name": "Jaqueline Carvalho de Oliveira",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "Optativas",
+      "code": "BMED022",
+      "name": "Estágio Supervisionado Em Coleta Biológica",
+      "offer": "F",
+      "type": "Optativa",
+      "parts": [
+        {
+          "day": "2ª-feira",
+          "start": "13:30",
+          "end": "17:30",
+          "kind": "P",
+          "teacher": "Jaqueline Carvalho de Oliveira",
+          "room": ""
+        },
+        {
+          "day": "4ª-feira",
+          "start": "13:30",
+          "end": "17:30",
+          "kind": "T",
+          "teacher": "Jaqueline Carvalho de Oliveira",
+          "room": ""
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Jaqueline Carvalho de Oliveira",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "4º período",
+      "code": "BP215",
+      "name": "Imunologia",
+      "offer": "AC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "3ª-feira",
+          "start": "15:30",
+          "end": "17:30",
+          "kind": "T",
+          "teacher": "Larissa Magalhães Alvarenga",
+          "room": "SALA 01"
+        },
+        {
+          "day": "4ª-feira",
+          "start": "13:30",
+          "end": "15:30",
+          "kind": "P",
+          "teacher": "Larissa Magalhães Alvarenga",
+          "room": "SALA 01"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Larissa Magalhães Alvarenga",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "4º período",
+      "code": "BP217",
+      "name": "Hematologia Aplicada À Biomedicina",
+      "offer": "BC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "4ª-feira",
+          "start": "15:30",
+          "end": "17:30",
+          "kind": "T",
+          "teacher": "Regiane Stafim da Cunha",
+          "room": "ANFI. 06"
+        },
+        {
+          "day": "5ª-feira",
+          "start": "13:30",
+          "end": "15:30",
+          "kind": "P",
+          "teacher": "Regiane Stafim da Cunha",
+          "room": ""
+        }
+      ],
+      "obs": "Teoria compartilhada entre as turmas AC e BC.",
+      "teachers": [
+        {
+          "name": "Regiane Stafim da Cunha",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "4º período",
+      "code": "BP217",
+      "name": "Hematologia Aplicada À Biomedicina",
+      "offer": "AC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "4ª-feira",
+          "start": "15:30",
+          "end": "17:30",
+          "kind": "T",
+          "teacher": "Regiane Stafim da Cunha",
+          "room": "ANFI. 06"
+        },
+        {
+          "day": "5ª-feira",
+          "start": "15:30",
+          "end": "17:30",
+          "kind": "P",
+          "teacher": "Regiane Stafim da Cunha",
+          "room": ""
+        }
+      ],
+      "obs": "Teoria compartilhada entre as turmas AC e BC.",
+      "teachers": [
+        {
+          "name": "Regiane Stafim da Cunha",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "6º período",
+      "code": "BP219",
+      "name": "Redação De Projetos Científicos",
+      "offer": "AC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "2ª-feira",
+          "start": "15:30",
+          "end": "18:30",
+          "kind": "T",
+          "teacher": "Adriana Frohlich Mercadante / Lia Sumie Nakao / Silvio Marques Zanata",
+          "room": "ANFI. 04"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Adriana Frohlich Mercadante",
+          "lattes": ""
+        },
+        {
+          "name": "Lia Sumie Nakao",
+          "lattes": ""
+        },
+        {
+          "name": "Silvio Marques Zanata",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "6º período",
+      "code": "BP220",
+      "name": "Relações Patógeno-Hospedeiro: Abordagem Integrativa Para Diagnóstico",
+      "offer": "A",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "3ª-feira",
+          "start": "13:30",
+          "end": "15:30",
+          "kind": "T",
+          "teacher": "Andrey Jose de Andrade / Camila Marcon / Tárcio Teodoro Braga",
+          "room": "SALA 02"
+        },
+        {
+          "day": "4ª-feira",
+          "start": "13:30",
+          "end": "16:30",
+          "kind": "T",
+          "teacher": "Andrey Jose de Andrade / Camila Marcon / Tárcio Teodoro Braga",
+          "room": "SALA 02"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Andrey Jose de Andrade",
+          "lattes": ""
+        },
+        {
+          "name": "Camila Marcon",
+          "lattes": "http://lattes.cnpq.br/2439951126870898"
+        },
+        {
+          "name": "Tárcio Teodoro Braga",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "4º período",
+      "code": "BP222",
+      "name": "Metodologia Do Ensino Em Saúde Ii",
+      "offer": "A",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "2ª-feira",
+          "start": "13:30",
+          "end": "15:30",
+          "kind": "T",
+          "teacher": "Marcelo Andreetta Corral",
+          "room": "SALA 02"
+        },
+        {
+          "day": "5ª-feira",
+          "start": "13:30",
+          "end": "15:30",
+          "kind": "P",
+          "teacher": "Marcelo Andreetta Corral",
+          "room": "ANFI. 04"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Marcelo Andreetta Corral",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "4º período",
+      "code": "BP222",
+      "name": "Metodologia Do Ensino Em Saúde Ii",
+      "offer": "B",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "2ª-feira",
+          "start": "13:30",
+          "end": "15:30",
+          "kind": "T",
+          "teacher": "Marcelo Andreetta Corral",
+          "room": "SALA 02"
+        },
+        {
+          "day": "5ª-feira",
+          "start": "15:30",
+          "end": "17:30",
+          "kind": "P",
+          "teacher": "Marcelo Andreetta Corral",
+          "room": "ANFI. 04"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Marcelo Andreetta Corral",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "2º período",
+      "code": "BQ084",
+      "name": "Introdução Ao Método Científico",
+      "offer": "AC/BC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "5ª-feira",
+          "start": "15:30",
+          "end": "18:30",
+          "kind": "T",
+          "teacher": "David Alexander Mitchell / Diogo Ricardo Bazan Ducatti",
+          "room": "SALA 01"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "David Alexander Mitchell",
+          "lattes": ""
+        },
+        {
+          "name": "Diogo Ricardo Bazan Ducatti",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "2º período",
+      "code": "BQ086",
+      "name": "Metabolismo Celular E Tecidual",
+      "offer": "A",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "5ª-feira",
+          "start": "13:30",
+          "end": "15:30",
+          "kind": "T",
+          "teacher": "Diogo Ricardo Bazan Ducatti / Edileusa Cristina Marques Gerhardt",
+          "room": "SALA 02"
+        },
+        {
+          "day": "6ª-feira",
+          "start": "13:30",
+          "end": "15:30",
+          "kind": "T",
+          "teacher": "Diogo Ricardo Bazan Ducatti / Edileusa Cristina Marques Gerhardt",
+          "room": "SALA 02"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Diogo Ricardo Bazan Ducatti",
+          "lattes": ""
+        },
+        {
+          "name": "Edileusa Cristina Marques Gerhardt",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "6º período",
+      "code": "BQ088",
+      "name": "Métodos Analíticos Para Biomedicina",
+      "offer": "AC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "5ª-feira",
+          "start": "09:30",
+          "end": "11:30",
+          "kind": "T",
+          "teacher": "Guilherme Lanzi Sassaki",
+          "room": "ANFI. 15"
+        },
+        {
+          "day": "5ª-feira",
+          "start": "13:30",
+          "end": "15:30",
+          "kind": "P",
+          "teacher": "Guilherme Lanzi Sassaki",
+          "room": "ANFI. 15"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Guilherme Lanzi Sassaki",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "Optativas",
+      "code": "BQ089",
+      "name": "Representação E Análise De Dados E Fenômenos Nas Ciências Biológicas",
+      "offer": "Bmed",
+      "type": "Optativa",
+      "parts": [
+        {
+          "day": "6ª-feira",
+          "start": "13:30",
+          "end": "17:30",
+          "kind": "T",
+          "teacher": "David Alexander Mitchell",
+          "room": ""
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "David Alexander Mitchell",
           "lattes": ""
         }
       ]
@@ -1020,7 +942,7 @@
     {
       "period": "Optativas",
       "code": "BQ092",
-      "name": "Modelagem Matemática em Ciências Biológicas",
+      "name": "Modelagem Matemática Em Ciências Biológicas",
       "offer": "Bmed-B",
       "type": "Optativa",
       "parts": [
@@ -1029,22 +951,22 @@
           "start": "17:30",
           "end": "19:30",
           "kind": "T",
-          "teacher": "David Mitchell",
+          "teacher": "David Alexander Mitchell",
           "room": "SALA 02"
         }
       ],
       "obs": "",
       "teachers": [
         {
-          "name": "David Mitchell",
-          "lattes": "http://lattes.cnpq.br/9183875102082026"
+          "name": "David Alexander Mitchell",
+          "lattes": ""
         }
       ]
     },
     {
       "period": "Optativas",
       "code": "BT058",
-      "name": "Fisiopatologia e Farmacologia da Dor",
+      "name": "Fisiopatologia E Farmacologia Da Dor",
       "offer": "Bmed",
       "type": "Optativa",
       "parts": [
@@ -1053,14 +975,154 @@
           "start": "15:30",
           "end": "17:30",
           "kind": "T",
-          "teacher": "Joice M. Cunha",
+          "teacher": "Joice Maria da Cunha / Juliana Geremias Chichorro / Sergio Jose Macedo Junior",
           "room": "SALA 04"
         }
       ],
       "obs": "",
       "teachers": [
         {
-          "name": "Joice M. Cunha",
+          "name": "Joice Maria da Cunha",
+          "lattes": ""
+        },
+        {
+          "name": "Juliana Geremias Chichorro",
+          "lattes": ""
+        },
+        {
+          "name": "Sergio Jose Macedo Junior",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "6º período",
+      "code": "BT074",
+      "name": "Farmacologia Biomédica Ii",
+      "offer": "AC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "2ª-feira",
+          "start": "13:30",
+          "end": "15:30",
+          "kind": "P",
+          "teacher": "Alexandra Acco / Francislaine Aparecida dos Reis Livero / Joice Maria da Cunha / Juliana Geremias Chichorro / Maria Fernanda de Paula Werner",
+          "room": "SALA 05"
+        },
+        {
+          "day": "4ª-feira",
+          "start": "09:30",
+          "end": "11:30",
+          "kind": "T",
+          "teacher": "Alexandra Acco / Francislaine Aparecida dos Reis Livero / Joice Maria da Cunha / Juliana Geremias Chichorro / Maria Fernanda de Paula Werner",
+          "room": "SALA 06"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Alexandra Acco",
+          "lattes": ""
+        },
+        {
+          "name": "Francislaine Aparecida dos Reis Livero",
+          "lattes": ""
+        },
+        {
+          "name": "Joice Maria da Cunha",
+          "lattes": ""
+        },
+        {
+          "name": "Juliana Geremias Chichorro",
+          "lattes": ""
+        },
+        {
+          "name": "Maria Fernanda de Paula Werner",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "6º período",
+      "code": "BT075",
+      "name": "Representação E Análise De Dados",
+      "offer": "AC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "3ª-feira",
+          "start": "09:30",
+          "end": "11:30",
+          "kind": "T",
+          "teacher": "Janaína Menezes Zanoveli / Quelen Iane Garlet",
+          "room": "SALA 07"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Janaína Menezes Zanoveli",
+          "lattes": ""
+        },
+        {
+          "name": "Quelen Iane Garlet",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "4º período",
+      "code": "CI182",
+      "name": "Fundamentos De Programação De Computadores",
+      "offer": "Bmed",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "3ª-feira",
+          "start": "09:30",
+          "end": "11:30",
+          "kind": "T",
+          "teacher": "Eduardo Jaques Spinosa",
+          "room": "PA-02 · Setor de Ciências Exatas"
+        },
+        {
+          "day": "5ª-feira",
+          "start": "09:30",
+          "end": "11:30",
+          "kind": "P",
+          "teacher": "Eduardo Jaques Spinosa",
+          "room": "PA-02 · Setor de Ciências Exatas"
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Eduardo Jaques Spinosa",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "2º período",
+      "code": "HF0407",
+      "name": "Bioética",
+      "offer": "AC",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "2ª-feira",
+          "start": "13:30",
+          "end": "17:30",
+          "kind": "T",
+          "teacher": "Daniel Verginelli Galantin",
+          "room": ""
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Daniel Verginelli Galantin",
           "lattes": ""
         }
       ]
@@ -1068,21 +1130,26 @@
     {
       "period": "Optativas",
       "code": "LIB038",
-      "name": "Comunicação em Língua Brasileira de Sinais-LIBRAS",
+      "name": "Comunicação Em Língua Brasileira De Sinais-Libras: Fundamentos Da Educação Bilíngue Para Surdos",
       "offer": "Bmed",
       "type": "Optativa",
       "parts": [
         {
-          "day": "3ª-feira",
-          "start": "13:30",
-          "end": "17:30",
+          "day": "2ª-feira",
+          "start": "07:30",
+          "end": "11:30",
           "kind": "T",
-          "teacher": "",
-          "room": ""
+          "teacher": "Lucas Gomes de Albuquerque",
+          "room": "503 · D. Pedro II · Reitoria"
         }
       ],
       "obs": "",
-      "teachers": []
+      "teachers": [
+        {
+          "name": "Lucas Gomes de Albuquerque",
+          "lattes": ""
+        }
+      ]
     },
     {
       "period": "Optativas",
@@ -1096,7 +1163,7 @@
           "start": "11:30",
           "end": "12:30",
           "kind": "T",
-          "teacher": "Wesley Souza",
+          "teacher": "Wesley Mauricio de Souza",
           "room": ""
         },
         {
@@ -1104,15 +1171,15 @@
           "start": "07:30",
           "end": "10:30",
           "kind": "P",
-          "teacher": "Wesley Souza",
+          "teacher": "Wesley Mauricio de Souza",
           "room": ""
         }
       ],
       "obs": "",
       "teachers": [
         {
-          "name": "Wesley Souza",
-          "lattes": "http://lattes.cnpq.br/4550015768205145"
+          "name": "Wesley Mauricio de Souza",
+          "lattes": ""
         }
       ]
     },
@@ -1128,7 +1195,7 @@
           "start": "11:30",
           "end": "12:30",
           "kind": "T",
-          "teacher": "Wesley Souza",
+          "teacher": "Wesley Mauricio de Souza",
           "room": ""
         },
         {
@@ -1136,15 +1203,15 @@
           "start": "08:30",
           "end": "11:30",
           "kind": "P",
-          "teacher": "Wesley Souza",
+          "teacher": "Wesley Mauricio de Souza",
           "room": ""
         }
       ],
       "obs": "",
       "teachers": [
         {
-          "name": "Wesley Souza",
-          "lattes": "http://lattes.cnpq.br/4550015768205145"
+          "name": "Wesley Mauricio de Souza",
+          "lattes": ""
         }
       ]
     },
@@ -1160,7 +1227,7 @@
           "start": "11:30",
           "end": "12:30",
           "kind": "T",
-          "teacher": "Wesley Souza",
+          "teacher": "Wesley Mauricio de Souza",
           "room": ""
         },
         {
@@ -1168,15 +1235,15 @@
           "start": "13:30",
           "end": "16:30",
           "kind": "P",
-          "teacher": "Wesley Souza",
+          "teacher": "Wesley Mauricio de Souza",
           "room": ""
         }
       ],
       "obs": "",
       "teachers": [
         {
-          "name": "Wesley Souza",
-          "lattes": "http://lattes.cnpq.br/4550015768205145"
+          "name": "Wesley Mauricio de Souza",
+          "lattes": ""
         }
       ]
     },
@@ -1192,7 +1259,7 @@
           "start": "14:30",
           "end": "15:30",
           "kind": "T",
-          "teacher": "Glaucio Valdameri",
+          "teacher": "Glaucio Valdameri / Vivian Rotuno Moure Valdameri",
           "room": ""
         },
         {
@@ -1200,7 +1267,7 @@
           "start": "08:30",
           "end": "12:30",
           "kind": "P",
-          "teacher": "Glaucio Valdameri",
+          "teacher": "Glaucio Valdameri / Vivian Rotuno Moure Valdameri",
           "room": ""
         }
       ],
@@ -1209,6 +1276,10 @@
         {
           "name": "Glaucio Valdameri",
           "lattes": "http://lattes.cnpq.br/9897630183923653"
+        },
+        {
+          "name": "Vivian Rotuno Moure Valdameri",
+          "lattes": ""
         }
       ]
     },
@@ -1256,7 +1327,7 @@
           "start": "14:30",
           "end": "15:30",
           "kind": "T",
-          "teacher": "Glaucio Valdameri",
+          "teacher": "Glaucio Valdameri / Vivian Rotuno Moure Valdameri",
           "room": ""
         },
         {
@@ -1264,7 +1335,7 @@
           "start": "08:30",
           "end": "12:30",
           "kind": "P",
-          "teacher": "Glaucio Valdameri",
+          "teacher": "Glaucio Valdameri / Vivian Rotuno Moure Valdameri",
           "room": ""
         }
       ],
@@ -1273,6 +1344,10 @@
         {
           "name": "Glaucio Valdameri",
           "lattes": "http://lattes.cnpq.br/9897630183923653"
+        },
+        {
+          "name": "Vivian Rotuno Moure Valdameri",
+          "lattes": ""
         }
       ]
     },
@@ -1288,7 +1363,7 @@
           "start": "14:30",
           "end": "15:30",
           "kind": "T",
-          "teacher": "Glaucio Valdameri",
+          "teacher": "Glaucio Valdameri / Vivian Rotuno Moure Valdameri",
           "room": ""
         },
         {
@@ -1296,7 +1371,7 @@
           "start": "13:30",
           "end": "17:30",
           "kind": "P",
-          "teacher": "Glaucio Valdameri",
+          "teacher": "Glaucio Valdameri / Vivian Rotuno Moure Valdameri",
           "room": ""
         }
       ],
@@ -1305,305 +1380,180 @@
         {
           "name": "Glaucio Valdameri",
           "lattes": "http://lattes.cnpq.br/9897630183923653"
+        },
+        {
+          "name": "Vivian Rotuno Moure Valdameri",
+          "lattes": ""
         }
       ]
     },
     {
-      "period": "Optativas",
-      "code": "MAC040",
-      "name": "Citologia Clínica e Líquidos Biológicos",
-      "offer": "A",
-      "type": "Optativa*",
+      "period": "6º período",
+      "code": "MAC048",
+      "name": "Práticas Específicas Em Análises Clínicas",
+      "offer": "Bmed-A",
+      "type": "Obrigatória",
       "parts": [
         {
-          "day": "3ª-feira",
-          "start": "09:30",
-          "end": "10:30",
-          "kind": "T",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "day": "3ª-feira",
-          "start": "10:30",
-          "end": "12:30",
+          "day": "6ª-feira",
+          "start": "08:30",
+          "end": "11:30",
           "kind": "P",
-          "teacher": "",
+          "teacher": "Aline Borsato Hauser / Railson Henneberg",
           "room": ""
         }
       ],
       "obs": "",
-      "teachers": []
-    },
-    {
-      "period": "Optativas",
-      "code": "MAC040",
-      "name": "Citologia Clínica e Líquidos Biológicos",
-      "offer": "B",
-      "type": "Optativa*",
-      "parts": [
+      "teachers": [
         {
-          "day": "3ª-feira",
-          "start": "09:30",
-          "end": "10:30",
-          "kind": "T",
-          "teacher": "",
-          "room": ""
+          "name": "Aline Borsato Hauser",
+          "lattes": ""
         },
         {
-          "day": "3ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "P",
-          "teacher": "",
-          "room": ""
+          "name": "Railson Henneberg",
+          "lattes": ""
         }
-      ],
-      "obs": "",
-      "teachers": []
+      ]
     },
     {
-      "period": "Optativas",
-      "code": "MAC040",
-      "name": "Citologia Clínica e Líquidos Biológicos",
-      "offer": "C",
-      "type": "Optativa*",
-      "parts": [
-        {
-          "day": "3ª-feira",
-          "start": "09:30",
-          "end": "10:30",
-          "kind": "T",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "day": "3ª-feira",
-          "start": "15:30",
-          "end": "17:30",
-          "kind": "P",
-          "teacher": "",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": []
-    },
-    {
-      "period": "Optativas",
-      "code": "MAC040",
-      "name": "Citologia Clínica e Líquidos Biológicos",
-      "offer": "D",
-      "type": "Optativa*",
-      "parts": [
-        {
-          "day": "3ª-feira",
-          "start": "09:30",
-          "end": "10:30",
-          "kind": "T",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "day": "4ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "P",
-          "teacher": "",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": []
-    },
-    {
-      "period": "Optativas",
-      "code": "MAC039",
-      "name": "Parasitologia",
-      "offer": "A",
-      "type": "Optativa*",
+      "period": "6º período",
+      "code": "MAC048",
+      "name": "Práticas Específicas Em Análises Clínicas",
+      "offer": "Bmed-B",
+      "type": "Obrigatória",
       "parts": [
         {
           "day": "2ª-feira",
-          "start": "16:30",
-          "end": "17:30",
-          "kind": "T",
-          "teacher": "",
+          "start": "13:30",
+          "end": "16:30",
+          "kind": "P",
+          "teacher": "Aline Borsato Hauser / Railson Henneberg",
           "room": ""
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Aline Borsato Hauser",
+          "lattes": ""
         },
+        {
+          "name": "Railson Henneberg",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "6º período",
+      "code": "MAC048",
+      "name": "Práticas Específicas Em Análises Clínicas",
+      "offer": "Bmed-C",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "3ª-feira",
+          "start": "08:30",
+          "end": "11:30",
+          "kind": "P",
+          "teacher": "Aline Borsato Hauser / Railson Henneberg",
+          "room": ""
+        }
+      ],
+      "obs": "",
+      "teachers": [
+        {
+          "name": "Aline Borsato Hauser",
+          "lattes": ""
+        },
+        {
+          "name": "Railson Henneberg",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "6º período",
+      "code": "MAC048",
+      "name": "Práticas Específicas Em Análises Clínicas",
+      "offer": "Bmed-D",
+      "type": "Obrigatória",
+      "parts": [
         {
           "day": "4ª-feira",
           "start": "08:30",
-          "end": "10:30",
+          "end": "11:30",
           "kind": "P",
-          "teacher": "",
+          "teacher": "Aline Borsato Hauser / Railson Henneberg",
           "room": ""
         }
       ],
       "obs": "",
-      "teachers": []
-    },
-    {
-      "period": "Optativas",
-      "code": "MAC039",
-      "name": "Parasitologia",
-      "offer": "B",
-      "type": "Optativa*",
-      "parts": [
+      "teachers": [
         {
-          "day": "2ª-feira",
-          "start": "16:30",
-          "end": "17:30",
-          "kind": "T",
-          "teacher": "",
-          "room": ""
+          "name": "Aline Borsato Hauser",
+          "lattes": ""
         },
         {
-          "day": "4ª-feira",
-          "start": "10:30",
-          "end": "12:30",
+          "name": "Railson Henneberg",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "6º período",
+      "code": "MAC048",
+      "name": "Práticas Específicas Em Análises Clínicas",
+      "offer": "Bmed-E",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "5ª-feira",
+          "start": "08:30",
+          "end": "11:30",
           "kind": "P",
-          "teacher": "",
+          "teacher": "Aline Borsato Hauser / Railson Henneberg",
           "room": ""
         }
       ],
       "obs": "",
-      "teachers": []
-    },
-    {
-      "period": "Optativas",
-      "code": "MAC039",
-      "name": "Parasitologia",
-      "offer": "C",
-      "type": "Optativa*",
-      "parts": [
+      "teachers": [
         {
-          "day": "2ª-feira",
-          "start": "16:30",
-          "end": "17:30",
-          "kind": "T",
-          "teacher": "",
-          "room": ""
+          "name": "Aline Borsato Hauser",
+          "lattes": ""
         },
         {
-          "day": "4ª-feira",
+          "name": "Railson Henneberg",
+          "lattes": ""
+        }
+      ]
+    },
+    {
+      "period": "6º período",
+      "code": "MAC048",
+      "name": "Práticas Específicas Em Análises Clínicas",
+      "offer": "Bmed-F",
+      "type": "Obrigatória",
+      "parts": [
+        {
+          "day": "5ª-feira",
           "start": "13:30",
-          "end": "15:30",
-          "kind": "P",
-          "teacher": "",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": []
-    },
-    {
-      "period": "Optativas",
-      "code": "MAC039",
-      "name": "Parasitologia",
-      "offer": "D",
-      "type": "Optativa*",
-      "parts": [
-        {
-          "day": "2ª-feira",
-          "start": "16:30",
-          "end": "17:30",
-          "kind": "T",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "day": "4ª-feira",
-          "start": "15:30",
-          "end": "17:30",
-          "kind": "P",
-          "teacher": "",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": []
-    },
-    {
-      "period": "Optativas",
-      "code": "MAC044",
-      "name": "Virologia Clínica",
-      "offer": "A",
-      "type": "Optativa*",
-      "parts": [
-        {
-          "day": "2ª-feira",
-          "start": "13:30",
-          "end": "14:30",
-          "kind": "T",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "day": "2ª-feira",
-          "start": "14:30",
           "end": "16:30",
           "kind": "P",
-          "teacher": "",
+          "teacher": "Aline Borsato Hauser / Railson Henneberg",
           "room": ""
         }
       ],
       "obs": "",
-      "teachers": []
-    },
-    {
-      "period": "Optativas",
-      "code": "MAC044",
-      "name": "Virologia Clínica",
-      "offer": "B1",
-      "type": "Optativa*",
-      "parts": [
+      "teachers": [
         {
-          "day": "2ª-feira",
-          "start": "13:30",
-          "end": "14:30",
-          "kind": "T",
-          "teacher": "",
-          "room": ""
+          "name": "Aline Borsato Hauser",
+          "lattes": ""
         },
         {
-          "day": "3ª-feira",
-          "start": "13:30",
-          "end": "15:30",
-          "kind": "P",
-          "teacher": "",
-          "room": ""
+          "name": "Railson Henneberg",
+          "lattes": ""
         }
-      ],
-      "obs": "",
-      "teachers": []
-    },
-    {
-      "period": "Optativas",
-      "code": "MAC044",
-      "name": "Virologia Clínica",
-      "offer": "B2",
-      "type": "Optativa*",
-      "parts": [
-        {
-          "day": "2ª-feira",
-          "start": "13:30",
-          "end": "14:30",
-          "kind": "T",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "day": "3ª-feira",
-          "start": "15:30",
-          "end": "17:30",
-          "kind": "P",
-          "teacher": "",
-          "room": ""
-        }
-      ],
-      "obs": "",
-      "teachers": []
+      ]
     }
   ],
   "days": [
@@ -1614,5 +1564,5 @@
     "6ª-feira"
   ],
   "title": "BIOMEDICINA 2026-2",
-  "version": "3.3.6"
+  "version": "2026-2 · atualização 25/08/2026"
 }

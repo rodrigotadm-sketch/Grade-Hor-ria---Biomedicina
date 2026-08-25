@@ -1,0 +1,20 @@
+GRADE HORÁRIA BIOMEDICINA 2026-2 — ATUALIZAÇÃO
+Data: 25/08/2026
+
+Base principal:
+- Planilha Grade Horária 2026-2.xlsx enviada pela Coordenação.
+- Estrutura e ensalamentos já cadastrados na versão publicada.
+- Exceções informadas: CI182 = PA-02, Setor de Ciências Exatas; LIB038 = 503, D. Pedro II, Reitoria.
+
+Atualizações:
+- Horários e docentes sincronizados com a planilha de oferta.
+- Turmas/ofertas não presentes na planilha atual foram retiradas da base publicada.
+- BQ089 e BMED021 foram incorporadas.
+- BMED022 passou a refletir todas as ofertas presentes na planilha.
+- Registro inválido BP220 “null: 00:00 - 00:00” foi descartado.
+- BMED020/BMED021 mantidas sem horário semanal, pois a planilha registra “64” em Encontro(s).
+- Ensalamentos previamente cadastrados foram preservados quando compatíveis com dia/horário.
+- CI182 e LIB038 receberam os locais explicitamente informados.
+
+Observação:
+O ensalamento do Setor de Ciências Biológicas é sujeito a alterações e disciplinas sem sala confirmada permanecem como “a definir”.
